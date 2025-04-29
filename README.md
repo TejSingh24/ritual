@@ -239,10 +239,10 @@ cd ../../../
 
 # Deploying Consumer Contract
 ```
-docker compose -f infernet-container-starter/deploy/docker-compose.yaml down
+docker compose -f ~/infernet-container-starter/deploy/docker-compose.yaml down
 ```
 ```
-docker compose -f infernet-container-starter/deploy/docker-compose.yaml up
+docker compose -f ~/infernet-container-starter/deploy/docker-compose.yaml up
 ```
 
 Open another wsl window
