@@ -140,7 +140,7 @@ Make these changes:-
 ```
 nano ~/infernet-container-starter/deploy/docker-compose.yaml
 ```
-Change node version at top from 1.2.0 to 1.4.0
+Change node version at top from 1.2.0 or 1.3.1 to 1.4.0
 * For auto-restart, can add/change `restart:on-failure`
 * Save and exit with `CTRL + X` then `Y` then press `enter`
 
